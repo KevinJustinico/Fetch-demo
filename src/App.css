@@ -1,0 +1,18 @@
+.card-image img 
+{
+    width: 20vh;
+    height: auto;
+    display: block;
+}
+
+.img-icon{
+    width: 20vh;
+    height: 30%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(45deg, #444 25%, transparent 25%, transparent 75%, #444 75%, #444), linear-gradient(45deg, #444 25%, transparent 25%, transparent 75%, #444 75%, #444);
+    background-size: 50px 50px;
+}
